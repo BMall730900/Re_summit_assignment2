@@ -1,10 +1,7 @@
 verse_1.txt
 verse_2.txt
 verse_3.txt
-Hey Jude, don't let me down.
-You have found her, now go and get her.
-Remember to let her into your heart,
-Then you can start to make it better.
+verse_4.txt
 So let it out and let it in, hey Jude, begin,
 You're waiting for someone to perform with.
 And don't you know that it's just you, hey Jude, you'll do,
