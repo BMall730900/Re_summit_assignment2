@@ -3,8 +3,4 @@ verse_2.txt
 verse_3.txt
 verse_4.txt
 verse_5.txt
-Hey Jude, don't make it bad.
-Take a sad song and make it better.
-Remember to let her under your skin,
-Then you'll begin to make it
-Better better better better better better, oh.
+verse_6.txt
