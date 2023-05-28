@@ -1,9 +1,6 @@
 verse_1.txt
 verse_2.txt
-And anytime you feel the pain, hey Jude, refrain,
-Don't carry the world upon your shoulders.
-For well you know that it's a fool who plays it cool
-By making his world a little colder.
+verse_3.txt
 Hey Jude, don't let me down.
 You have found her, now go and get her.
 Remember to let her into your heart,
