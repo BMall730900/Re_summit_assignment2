@@ -1,0 +1,79 @@
+commit e53db4c7ceeb4aa7f6109152b0611f2c917fd173 (HEAD -> master)
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 11:12:25 2023 +0100
+
+    Revert "removing one line from verse 1"
+
+    This reverts commit a9463d6b6194673df1ecd671035fe8676da99e27.
+
+commit a9463d6b6194673df1ecd671035fe8676da99e27
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 11:06:05 2023 +0100
+
+    removing one line from verse 1
+
+commit a8f1c7496acb6160fadc10f7d72e4ec91c38a185
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 11:03:19 2023 +0100
+
+    cutting verse 6
+
+commit 6b9762edc2562b79e35e974fb5a7171e4ef78b66
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 11:01:19 2023 +0100
+
+    cutting verse 5
+
+commit f3b4fac1548a9f57d36f6d57c0efd5a1bc6759ac
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:59:54 2023 +0100
+
+    cutting verse 4
+
+commit b3ab3b3639ccad6bc7ff15eeb812c8934f80d65d
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:58:32 2023 +0100
+
+    cutting verse 3
+
+commit 9becc0aafd024837ffa71aa8c4d0e96494678333
+Author: Fangyu <bfangliu@amazon.com>
+...skipping...
+
+    cutting verse 6
+
+commit 6b9762edc2562b79e35e974fb5a7171e4ef78b66
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 11:01:19 2023 +0100
+
+    cutting verse 5
+
+commit f3b4fac1548a9f57d36f6d57c0efd5a1bc6759ac
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:59:54 2023 +0100
+
+    cutting verse 4
+
+commit b3ab3b3639ccad6bc7ff15eeb812c8934f80d65d
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:58:32 2023 +0100
+
+    cutting verse 3
+
+commit 9becc0aafd024837ffa71aa8c4d0e96494678333
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:56:09 2023 +0100
+
+    cutting verse 2
+
+commit 7b77ee5b2b0f282c2dd76c5cc783933c44e8af39
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:54:04 2023 +0100
+
+    cutting verse 1
+
+commit 4cc94d0de206b9de1f03e890943eb041e340c759
+Author: Fangyu <bfangliu@amazon.com>
+Date:   Sun May 28 10:48:22 2023 +0100
+
+    adding song.txt to repository
